@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+openai
+transformers
+beautifulsoup4
+requests
+numpy
+scikit-learn
